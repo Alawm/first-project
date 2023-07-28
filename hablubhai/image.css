@@ -1,0 +1,53 @@
+/* .img1{
+    max-width: 400px;
+}
+.img2{
+    max-width: 400px;
+}
+
+
+
+div{
+    float: left;
+}
+.box1{
+    width: 200px;
+    height:200px;
+    background-color: aqua;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(17, 198, 44);
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(224, 16, 30);
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(188, 240, 32);
+} */
+
+/* img{
+    width: 300px;
+}
+img:hover{
+  opacity:0.5; */
+.bg{
+    width: 1000px;
+    height: 1000px;
+    background: url(monkey.jpg) no-repeat center;
+}
+p{
+    font-size: 50px;
+}
+.box p{
+    text-align: center;
+    background-color:azure;
+    padding: 10px;
+    margin-top: 100px;
+    opacity: 0.5;
+}

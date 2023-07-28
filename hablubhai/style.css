@@ -1,0 +1,107 @@
+/* .alawm{
+    width:50%;
+    height:500px;
+    background-color: aquamarine;
+    border:10px solid red ;
+    margin: 20px 30px ; 
+    padding: 50px 20px 70px 70px ;
+}
+p{ margin: 50px ;
+    border: 5px solid  yellow ;
+    outline: 5px solid green ;
+}
+ h1{
+    color:blueviolet ;
+ 
+    text-align: center;} 
+    p{
+        color:brown ;
+        text-transform: uppercase;
+        text-indent: 5px;
+        letter-spacing: 5px;
+        word-spacing:25px ;
+        line-height: 40px ;
+    } */
+/* h1{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+p{font-family: poppins;
+    font-weight: 700 ;
+    font-style: italic
+} */
+/* a{
+    color: red;
+    text-decoration: none;
+background-color:aqua;
+font-size: 50px;
+}
+
+a:hover{
+    color:yellow;
+    background-color:burlywood;
+}
+
+a:active{
+    color: red;    
+}
+
+a:visited{
+    color: darkblue;
+    background-color:darkseagreen;
+} */
+/* ul{
+    list-style:square inside url(logo.png);
+} */
+/* table,th,td,tr{
+    border: 8px solid tomato;
+    border-collapse: collpse;
+    text-align:left ;
+} */
+/* h1{
+    display: inline-block;
+}
+span{
+    front-size: 25px;
+} */
+/* p{
+    max-width: 300px;
+    max-height: 200px;
+    border: 5px solid red;
+    overflow: scroll ;
+} */
+.a1{
+width: 400px;
+height:300px;
+background-color: yellow;
+margin:auto;
+position: relative;
+}
+.a2{
+    width:200px;
+    height: 150px;
+    background-color:lightcyan;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    border-radius: 50%;
+}
+.very{
+    border:2px solid grey;
+    margin-top: 10px;
+    width: 400px;
+    background-color: black;
+    color:aliceblue;
+    position: sticky;
+top: 0;
+}
+P{    
+      padding-bottom: 500px;}
+.tata{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+
+}

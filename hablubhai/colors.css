@@ -1,0 +1,33 @@
+h1{
+    color: rebeccapurple;
+
+}
+h2{
+    color: rgb(145, 211, 145, 0.5);}
+p{
+    color: #1c9638;
+}
+.box{
+    width: 400px;
+    height: 300px;
+    background:radial-gradient( rgb(44, 11, 187)20%, rgb(230, 47, 19) );
+}
+h3{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: -5px -5px 5px red ;
+}
+.photo{
+    width: 400px;
+    height: 450px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid rgb(44, 11, 187);
+    box-shadow: -5px 5px 5px rgb(44, 11, 187, 0.5);
+}
+.photo img{
+    width: 100%;
+}
+h4{
+margin: 0;
+}
