@@ -1,4 +1,4 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -31,7 +31,7 @@ grid-column: 1/-1;
 }
 .div7{background-color: rgb(202, 240, 7);
 grid-column: 1/-1;
-} */
+} 
 
 /*header*/
 
