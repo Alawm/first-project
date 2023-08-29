@@ -17,9 +17,9 @@ ___this is bold___
 `<h1>i am in Bangladesh</h1>` 
 ```html
 <html>  
-    <head></head>
-    <body></body>
-    <footer></footer>
+    <head>i am fresher</head>
+    <body>i am on learning my web development</body>
+    <footer>best wishes to you all</footer>
 </html>
 ```
 <ol>Orderedlist
