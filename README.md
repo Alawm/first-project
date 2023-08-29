@@ -2,7 +2,7 @@
 lal lawm ngak  
 this is second line
 
----
+---   
 
 # alawm
 ## lallawm
@@ -17,9 +17,9 @@ ___this is bold___
 `<h1>i am in Bangladesh</h1>` 
 ```html
 <html>  
-    <head></head>
-    <body></body>
-    <footer></footer>
+    <head>hello</head>
+    <body>hi </body>
+    <footer>good bye</footer>
 </html>
 ```
 <ol>Orderedlist
